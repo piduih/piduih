@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piduih
+- 👋 Hi, I’m @piduih (newbie)
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning PHP, HTML, CSS, Javascript, and other related.
 - 💞️ I’m looking to collaborate on any project that I can understand 😆.
