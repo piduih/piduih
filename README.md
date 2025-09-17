@@ -53,10 +53,5 @@ I respect people’s time and expertise. If you’re offering mentorship, freela
 
 ---
 
-## Next steps (ideas to add later)
-
-- Add a small portfolio section linking repositories and live demos.
-- Include a compact highlights timeline (skills learned, milestones).
-- Add badges for the main languages and frameworks I use.
 
 Thanks for visiting — I’m excited to keep learning and sharing. 🙌
