@@ -1,57 +1,66 @@
-<!--
-Personal profile README for @piduih
-This file is intentionally concise and written to be friendly, unique, and actionable —
-feel free to edit the sections below as your skills and projects grow.
--->
-
-# Hi — I’m piduih 👋
-
-I’m an aspiring web developer exploring the full stack: from HTML/CSS layouts to PHP backend logic and JavaScript interactivity.
-
-I build small projects to learn new techniques, solve problems, and share what I learn.
+<h1 align="center">Hi, I’m Firdaus <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Handshake.gif" width="36" /></h1>
+<p align="center">
+  <em>Aspiring Web Developer · Practical Learner · Open Source Enthusiast</em>
+</p>
 
 ---
 
-## What I'm learning
+### 🌱 About Me
 
-- PHP (server-side fundamentals)
-- HTML & CSS (semantic markup and responsive layouts)
-- JavaScript (DOM, fetch, and modern patterns)
-
-I enjoy learning by doing — small practical projects help me connect concepts quickly.
-
----
-
-## Current focus
-
-- Building reusable components and practicing clean, readable code.
-- Improving my understanding of web security basics and performance.
-- Learning to use git effectively and collaborate on open source projects.
+- 🚀 I’m currently exploring **full stack web development**:  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff"/> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat&logo=javascript&logoColor=222"/>
+  <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=fff"/>
+- 🎯 Learning by building small & practical projects.
+- 🏗️ Currently focused on:
+  - Clean, reusable code & web components
+  - Security basics & performance
+  - Open source collaboration (Git, GitHub)
 
 ---
 
-## Projects (examples)
+### 🛠️ Tech Stack & Focus
+
+| Language      | Skills & Interests                         |
+|---------------|--------------------------------------------|
+| HTML/CSS      | Semantic, responsive layouts               |
+| JavaScript    | DOM, fetch, modern JS patterns             |
+| PHP           | Backend logic, forms, data handling        |
+| Git, GitHub   | Version control, open source collaboration |
+
+---
+
+### 🗂️ Example Projects
 
 - Personal practice sites (HTML/CSS + JS)
-- Small PHP apps for forms and basic data handling
+- Small PHP apps for forms and data handling
 
-If you want to see specific code samples or a live demo, tell me which tech you prefer and I’ll share links.
-
----
-
-## How to reach me
-
-Website / contact: <https://afiladesign.com/>
-
-I welcome friendly collaboration and mentorship — if you have a small project or guidance to share, let's connect.
+ℹ️ **Want to see code samples or demos?**  
+Just let me know which tech you’re interested in!
 
 ---
 
-## A note on value
+### 🤝 Connect with Me
 
-I respect people’s time and expertise. If you’re offering mentorship, freelance work, or paid collaboration, please offer a fair price — quality knowledge and good work are worth paying for.
+- 🌐 Website: [afiladesign.com](https://afiladesign.com/)
+- 💬 Open for friendly collaboration, mentorship & freelance
+- 📬 Email/contact via website
 
 ---
 
+### 💡 Philosophy
 
-Thanks for visiting — I’m excited to keep learning and sharing. 🙌
+>I respect time & expertise.  
+>If you offer mentorship, freelance work, or collaborations,  
+>let’s value quality & fairness — good knowledge and results deserve it.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piduih&count_private=true&show_icons=true&hide=stars&theme=radical" height="160">
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! Let’s keep learning and building. 🙌</b>
+</p>
