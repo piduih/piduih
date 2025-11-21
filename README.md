@@ -1,90 +1,69 @@
-<h1 align="center">Hi, I’m Firdaus <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Handshake.gif" width="36" /></h1>
-<p align="center">
-  <em>Aspiring Web Developer · Practical Learner · Open Source Enthusiast</em>
-</p>
-
----
-
-### 🌱 About Me
-
-- 🚀 I’m currently exploring **full stack web development**:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Piduih&descAlignY=51&descAlign=62" width="100%"/>
   
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222"/>
-  <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222"/>
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rust-b7410e?style=flat&logo=rust&logoColor=white"/>
+  <h1>👨‍💻 Piduih</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Building+Digital+Solutions" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  </p>
 
-- 🎯 Learning by building small & practical projects  
-- 🏗️ Focused on:
-  - Clean, reusable code & modern web architecture  
-  - UI/UX simplicity inspired by Microsoft  
-  - Performance & security awareness  
-
----
-
-### 🚧 In Progress
-
-- 🌿 Deep dive into **Vue.js** (composition API, components, routing)
-- ⚡ Exploring **React** ecosystem (hooks, states, reusable UI)
-- 🦀 Learning **Rust** for backend and API development  
-- ☁️ Integrating cloud backends using:
-  - **Firebase** (auth, Firestore, hosting)
-  - **Supabase** (Postgres + API)
-  - **MongoDB** (NoSQL apps)
-- 🚀 Deploying modern apps via **Vercel** and GitHub Actions
+  <p align="center">
+    <a href="https://github.com/piduih">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Focus
+### 🧐 Tentang Saya
 
-| Category        | Tools & Focus Areas                                |
-|-----------------|----------------------------------------------------|
-| Frontend        | HTML, CSS, JavaScript, Vue.js, React               |
-| Backend         | PHP, Rust, Supabase, Firebase, MongoDB             |
-| Deployment      | Git, GitHub, Vercel                                |
-| Learning Focus  | Clean UI/UX, modern frameworks, reusable components |
+Hai! Saya **Piduih**. Saya seorang pembangun perisian yang bersemangat untuk mencipta aplikasi yang berskala dan efisien. Saya gemar mempelajari teknologi baharu dan berkongsi ilmu dengan komuniti.
 
----
-
-### 🗂️ Example Projects
-
-- 💻 Practice sites with HTML/CSS + JavaScript  
-- 🧩 Small PHP, Vue, or React apps for CRUD & forms  
-- ☁️ Firebase & Supabase integration demos  
-- ⚙️ Rust experiments for backend & API performance  
-
-ℹ️ **Want to see code samples or demos?**  
-Just let me know which tech you’re interested in!
+- 🔭 Saya sedang mengusahakan: **Projek Open Source**
+- 🌱 Saya sedang belajar: **Cloud Architecture & AI**
+- 💬 Tanya saya tentang: **JavaScript, Python, & Web Development**
+- 📫 Cara menghubungi saya: **firdausali at gmail dot com**
 
 ---
 
-### 🤝 Connect with Me
+### 🛠️ Teknologi & Alat
 
-- 🌐 Website: [afiladesign.com](https://afiladesign.com/)
-- 💬 Open for collaboration, mentorship & freelance
-- 📬 Email/contact via website
-
----
-
-### 💡 Philosophy
-
-> I respect time & expertise.  
-> If you offer mentorship, freelance work, or collaborations,  
-> let’s value quality & fairness — good knowledge and results deserve it.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,php" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,mysql,postgres,docker,git,vscode" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piduih&count_private=true&show_icons=true&theme=default&hide_border=true" height="160">
-</p>
+### 📊 Analitik GitHub
 
-<p align="center">
-  <b>Thanks for visiting! Let’s keep learning and building. 🙌</b>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piduih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piduih&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piduih&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/piduih/piduih/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=piduih&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</div>
