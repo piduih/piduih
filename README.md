@@ -1,69 +1,87 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Piduih&descAlignY=51&descAlign=62" width="100%"/>
-  
-  <h1>👨‍💻 Piduih</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Building+Digital+Solutions" alt="Typing SVG" />
-  </a>
-  
-  <p align="center">
-    <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  </p>
+# Hi, I'm Firdaus 👋
+### IT Support | Application Support | Web Development
 
-  <p align="center">
-    <a href="https://github.com/piduih">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-</div>
+I am an Information Technology graduate with experience in IT support and a continued interest in software development.
+
+I build and explore practical web applications, business systems, and database-driven solutions. I enjoy troubleshooting technical issues, improving workflows, and applying technology to solve real-world problems.
+
+Although my current work is outside the IT industry, I continue to develop my technical skills and maintain my presence in software development.
 
 ---
 
-### 🧐 Tentang Saya
+## 👨‍💻 About Me
 
-Hai! Saya **Piduih**. Saya seorang pembangun perisian yang bersemangat untuk mencipta aplikasi yang berskala dan efisien. Saya gemar mempelajari teknologi baharu dan berkongsi ilmu dengan komuniti.
+- 🎓 Information Technology graduate from Universiti Teknologi Malaysia (UTM).
+- 🖥️ Background in IT support and technical troubleshooting.
+- 🌐 Interested in web application development and system integration.
+- 🛠️ Build projects involving web technologies and business applications.
+- 📚 Continuously improving my skills in modern web development.
+- 🇲🇾 Based in Malaysia.
 
-- 🔭 Saya sedang mengusahakan: **Projek Open Source**
-- 🌱 Saya sedang belajar: **Cloud Architecture & AI**
-- 💬 Tanya saya tentang: **JavaScript, Python, & Web Development**
-- 📫 Cara menghubungi saya: **firdausali at gmail dot com**
+## 🧰 Technical Skills
+
+| Area | Technologies & Skills |
+|---|---|
+| IT Support | Technical troubleshooting, application support, system support |
+| Web Development | HTML, CSS, JavaScript, PHP |
+| Databases | SQL, MySQL |
+| Frontend Development | Responsive web interfaces, React, Vue |
+| Tools & Platforms | Git, GitHub, Linux, Windows |
+
+*Technologies are listed according to my experience and learning focus. The depth of experience varies by technology.*
+
+## 🚀 Selected Projects
+
+### 1. [Ala Carte Dashboard](https://github.com/piduih/dashboard)
+
+A PHP-based dashboard project.
+
+**Focus:** Web application development and dashboard interfaces.
+
+### 2. [Ala Carte Login](https://github.com/piduih/login)
+
+A PHP-based login module.
+
+**Focus:** Application structure and user login functionality.
+
+### 3. [Piduih Cognito](https://github.com/piduih/piduih-cognito)
+
+A TypeScript project with a roadmap to evolve into an AI-powered assistant.
+
+**Focus:** Exploring AI-oriented software concepts and application development.
+
+### 4. [GameMath](https://github.com/piduih/gamemath)
+
+A JavaScript project focused on mathematics for primary school students.
+
+**Focus:** Educational applications and interactive learning.
+
+### 5. [Personal Web Project](https://github.com/piduih/piduih.github.io)
+
+An HTML-based web project.
+
+**Focus:** Web development and website structure.
 
 ---
 
-### 🛠️ Teknologi & Alat
+## 🎯 Current Career Focus
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,php" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,mysql,postgres,docker,git,vscode" />
-</div>
+I am interested in opportunities involving:
 
----
+- IT Support and Technical Support
+- Application Support and System Support
+- Junior to intermediate Web Development roles, aligned with my demonstrated skills
+- Software maintenance and system integration
 
-### 📊 Analitik GitHub
+I bring a combination of technical support experience, practical problem-solving, and an ongoing commitment to software development.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piduih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piduih&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
+## 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piduih&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+- **GitHub:** [github.com/piduih](https://github.com/piduih)
+- **Portfolio:** [afiladesign.com](https://afiladesign.com)
+
+I welcome opportunities to collaborate, learn, and contribute to useful technology projects.
 
 ---
 
-<div align="center">
-  <img src="https://github.com/piduih/piduih/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piduih&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</div>
+*Building practical solutions. Solving technical problems. Continuing to grow in IT.*
