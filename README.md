@@ -27,51 +27,85 @@ I combine hands-on technical troubleshooting with experience supporting business
 
 ## 🚀 Selected Projects
 
-### 1. [YingLume Finance](https://github.com/piduih/yinglume)
+### 1. RiderLog – Digital Motorcycle Journal
+A digital motorcycle maintenance journal designed to help riders keep their motorcycle records organized.
+
+**Highlights:** Motorcycle garage, service and repair history, mileage tracking, maintenance cost summaries, mileage reminders, road tax tracking, fuel records, and an AI Mechanic assistant.
+
+**Tech:** React 19, TypeScript, Vite, Firebase Authentication, Cloud Firestore, Google Gemini API, Recharts.
+
+**Project:** [RiderLog on Google AI Studio](https://ai.studio/apps/drive/125v7_KkecYNMa4OrybuUtl8xaQ2tU4BP) · [GitHub repository](https://github.com/piduih/riderlog) (private)
+
+### 2. KhairatHub – Digital Khairat Management
+A digital management platform for mosques, surau, and community organizations to manage khairat membership, contributions, claims, and financial records.
+
+**Highlights:** Member and beneficiary management, contribution tracking, death claim workflow, digital receipts, financial ledger, compliance reports, audit logs, and AI assistant concepts.
+
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Firebase (Authentication, Firestore, Storage), Google Gemini API.
+
+**Live project:** [khairathub.afiladesign.com](https://khairathub.afiladesign.com) · [GitHub repository](https://github.com/piduih/KhairatHubV2) (private)
+
+### 3. YingLume Finance
 A PHP and MySQL-based finance application designed for small businesses.
 
 **Highlights:** Double-entry accounting, sales invoices, accounts receivable, supplier bills, accounts payable, banking, inventory, financial reports, multi-tenant architecture, and role-based access control.
 
 **Tech:** PHP 8.1+, MySQL 8.0+, Bootstrap 5.3.
 
-### 2. [PHP Santai](https://github.com/piduih/php-santai)
+[GitHub repository](https://github.com/piduih/yinglume)
+
+### 4. PHP Santai
 An interactive PHP learning ebook in Bahasa Melayu, designed to make programming concepts easier to understand through simple explanations, everyday analogies, code examples, and practical exercises.
 
 **Highlights:** 25 learning chapters, from PHP fundamentals to a Task Manager project, with chapter search, learning progress, dark mode, and responsive design.
 
-**Tech:** PHP learning content, HTML, CSS, JavaScript. No build step or npm required.
+**Tech:** HTML, CSS, JavaScript, PHP learning content.
 
-### 3. [MySQL Santai](https://github.com/piduih/mysql-santai)
+[GitHub repository](https://github.com/piduih/php-santai)
+
+### 5. MySQL Santai
 An interactive MySQL tutorial in Bahasa Melayu for learning SQL step by step.
 
 **Highlights:** 25 chapters, SQL examples, practical exercises, chapter navigation, browser-based learning progress, dark mode, and responsive design.
 
 **Tech:** MySQL, SQL, HTML, CSS, JavaScript.
 
-### 4. [Ala Carte Dashboard](https://github.com/piduih/dashboard)
+[GitHub repository](https://github.com/piduih/mysql-santai)
+
+### 6. Ala Carte Dashboard
 A PHP-based dashboard project.
 
 **Focus:** Web application development and dashboard interfaces.
 
-### 5. [Ala Carte Login](https://github.com/piduih/login)
+[Ala Carte Dashboard](https://github.com/piduih/dashboard)
+
+### 7. Ala Carte Login
 A PHP-based login module.
 
 **Focus:** Application structure and user login functionality.
 
-### 6. [Piduih Cognito](https://github.com/piduih/piduih-cognito)
+[Ala Carte Login](https://github.com/piduih/login)
+
+### 8. Piduih Cognito
 A TypeScript project exploring AI-oriented application concepts.
 
 **Focus:** Application development and AI integration exploration.
 
-### 7. [GameMath](https://github.com/piduih/gamemath)
+[Piduih Cognito](https://github.com/piduih/piduih-cognito)
+
+### 9. GameMath
 A JavaScript project focused on mathematics for primary school students.
 
 **Focus:** Educational applications and interactive learning.
 
-### 8. [Personal Website](https://github.com/piduih/piduih.github.io)
+[GameMath](https://github.com/piduih/gamemath)
+
+### 10. Personal Website
 A personal web project.
 
 **Focus:** Website structure and frontend development.
+
+[Personal Website](https://github.com/piduih/piduih.github.io)
 
 ## 🎯 Career Interests
 
