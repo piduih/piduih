@@ -63,6 +63,15 @@ A browser-based tool for creating static QR codes for business and personal use,
 
 **Project:** [QRGen on Google AI Studio](https://ai.studio/apps/drive/11iVawrxHvZm1gZJFSkwTGUxH6i9NSQKf) · [GitHub repository](https://github.com/piduih/QRGen)
 
+### 5. CopSignDigital – PDF Company Stamper
+A browser-based PDF tool for adding company stamps, signatures, logos, and QR codes to PDF documents.
+
+**Highlights:** Drag-and-drop PDF workflow, batch stamping, customizable stamp positioning, AI-powered text suggestions and document summaries, and client-side document processing.
+
+**Tech:** React 19, Vite, Tailwind CSS, pdf-lib, pdf.js, Google Gen AI SDK, OpenAI-compatible APIs.
+
+**GitHub repository:** [CopSignDigital](https://github.com/piduih/github.com-piduih-copSignDigital)
+
 ## 🎯 Career Interests
 
 I am interested in opportunities involving:
