@@ -1,79 +1,77 @@
 # Hi, I'm Firdaus 👋
-### IT Support | Application Support | Web Development
+### IT Support | ERP & MES Support | Web Application Development
 
-I am an Information Technology graduate with experience in IT support and a continued interest in software development.
+Information Technology graduate from Universiti Teknologi Malaysia (UTM), with a background in IT support, manufacturing systems, ERP implementation, application support, and web development.
 
-I build and explore practical web applications, business systems, and database-driven solutions. I enjoy troubleshooting technical issues, improving workflows, and applying technology to solve real-world problems.
+I combine hands-on technical troubleshooting with experience supporting business and production systems. I also build practical web applications to solve operational and business problems.
 
-Although my current work is outside the IT industry, I continue to develop my technical skills and maintain my presence in software development.
+## 👨‍💻 Professional Background
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Information Technology graduate from Universiti Teknologi Malaysia (UTM).
-- 🖥️ Background in IT support and technical troubleshooting.
-- 🌐 Interested in web application development and system integration.
-- 🛠️ Build projects involving web technologies and business applications.
-- 📚 Continuously improving my skills in modern web development.
-- 🇲🇾 Based in Malaysia.
+- **Manufacturing IT – Celestica Kulim:** IT support experience in a manufacturing environment, including support for Manufacturing Execution Systems (MES) and production operations.
+- **ERP Implementation – iFast / SADA:** Participated in an ERP implementation project for Syarikat Air Darul Aman (SADA), covering business functions including Finance, HR, Procurement, and Asset Management. Worked with Oracle Forms-based systems.
+- **Digital Signature Integration – DigiCert / UMPSA:** Freelance consulting involvement in digital-signature projects in 2024, including integration work involving Oracle Forms and DigiCert.
 
 ## 🧰 Technical Skills
 
-| Area | Technologies & Skills |
+| Area | Technologies & Experience |
 |---|---|
-| IT Support | Technical troubleshooting, application support, system support |
+| IT & Application Support | Technical troubleshooting, application support, system support, production support |
+| ERP & Manufacturing Systems | ERP implementation support, MES support, business process support |
+| Enterprise Applications | Oracle Forms, system integration |
 | Web Development | HTML, CSS, JavaScript, PHP |
 | Databases | SQL, MySQL |
 | Frontend Development | Responsive web interfaces, React, Vue |
 | Tools & Platforms | Git, GitHub, Linux, Windows |
 
-*Technologies are listed according to my experience and learning focus. The depth of experience varies by technology.*
+*My experience varies by technology. Some tools and frameworks are part of my ongoing learning and project development.*
 
 ## 🚀 Selected Projects
 
 ### 1. [Ala Carte Dashboard](https://github.com/piduih/dashboard)
-
 A PHP-based dashboard project.
 
 **Focus:** Web application development and dashboard interfaces.
 
 ### 2. [Ala Carte Login](https://github.com/piduih/login)
-
 A PHP-based login module.
 
 **Focus:** Application structure and user login functionality.
 
 ### 3. [Piduih Cognito](https://github.com/piduih/piduih-cognito)
+A TypeScript project exploring AI-oriented application concepts.
 
-A TypeScript project with a roadmap to evolve into an AI-powered assistant.
-
-**Focus:** Exploring AI-oriented software concepts and application development.
+**Focus:** Application development and AI integration exploration.
 
 ### 4. [GameMath](https://github.com/piduih/gamemath)
-
 A JavaScript project focused on mathematics for primary school students.
 
 **Focus:** Educational applications and interactive learning.
 
-### 5. [Personal Web Project](https://github.com/piduih/piduih.github.io)
+### 5. [Personal Website](https://github.com/piduih/piduih.github.io)
+A personal web project.
 
-An HTML-based web project.
+**Focus:** Website structure and frontend development.
 
-**Focus:** Web development and website structure.
-
----
-
-## 🎯 Current Career Focus
+## 🎯 Career Interests
 
 I am interested in opportunities involving:
 
 - IT Support and Technical Support
 - Application Support and System Support
-- Junior to intermediate Web Development roles, aligned with my demonstrated skills
-- Software maintenance and system integration
+- ERP Support and ERP Implementation
+- MES / Manufacturing Systems Support
+- Web Application Development
+- System Integration and Software Maintenance
 
-I bring a combination of technical support experience, practical problem-solving, and an ongoing commitment to software development.
+I bring a combination of manufacturing IT exposure, enterprise application experience, technical troubleshooting, and practical software development.
+
+## 📚 Current Learning Focus
+
+- SQL and database development
+- Modern web application development
+- React and Vue
+- ERP and MES concepts
+- Application integration
 
 ## 🤝 Let's Connect
 
@@ -83,5 +81,4 @@ I bring a combination of technical support experience, practical problem-solving
 I welcome opportunities to collaborate, learn, and contribute to useful technology projects.
 
 ---
-
-*Building practical solutions. Solving technical problems. Continuing to grow in IT.*
+*Practical IT experience. Business systems. Continuous development.*
