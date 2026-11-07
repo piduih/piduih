@@ -54,53 +54,14 @@ A PHP and MySQL-based finance application designed for small businesses.
 
 [GitHub repository](https://github.com/piduih/yinglume)
 
-### 4. PHP Santai
-An interactive PHP learning ebook in Bahasa Melayu, designed to make programming concepts easier to understand through simple explanations, everyday analogies, code examples, and practical exercises.
-
-**Highlights:** 25 learning chapters, from PHP fundamentals to a Task Manager project, with chapter search, learning progress, dark mode, and responsive design.
-
-**Tech:** HTML, CSS, JavaScript, PHP learning content.
-
-[GitHub repository](https://github.com/piduih/php-santai)
-
-### 5. MySQL Santai
-An interactive MySQL tutorial in Bahasa Melayu for learning SQL step by step.
-
-**Highlights:** 25 chapters, SQL examples, practical exercises, chapter navigation, browser-based learning progress, dark mode, and responsive design.
-
-**Tech:** MySQL, SQL, HTML, CSS, JavaScript.
-
-[GitHub repository](https://github.com/piduih/mysql-santai)
-
-### 6. Ala Carte Dashboard
-A PHP-based dashboard project.
-
-**Focus:** Web application development and dashboard interfaces.
-
-[Ala Carte Dashboard](https://github.com/piduih/dashboard)
-
-### 7. Ala Carte Login
-A PHP-based login module.
-
-**Focus:** Application structure and user login functionality.
-
-[Ala Carte Login](https://github.com/piduih/login)
-
-### 8. Piduih Cognito
-A TypeScript project exploring AI-oriented application concepts.
-
-**Focus:** Application development and AI integration exploration.
-
-[Piduih Cognito](https://github.com/piduih/piduih-cognito)
-
-### 9. GameMath
+### 4. GameMath
 A JavaScript project focused on mathematics for primary school students.
 
 **Focus:** Educational applications and interactive learning.
 
 [GameMath](https://github.com/piduih/gamemath)
 
-### 10. Personal Website
+### 5. Personal Website
 A personal web project.
 
 **Focus:** Website structure and frontend development.
