@@ -54,20 +54,6 @@ A PHP and MySQL-based finance application designed for small businesses.
 
 [GitHub repository](https://github.com/piduih/yinglume)
 
-### 4. GameMath
-A JavaScript project focused on mathematics for primary school students.
-
-**Focus:** Educational applications and interactive learning.
-
-[GameMath](https://github.com/piduih/gamemath)
-
-### 5. Personal Website
-A personal web project.
-
-**Focus:** Website structure and frontend development.
-
-[Personal Website](https://github.com/piduih/piduih.github.io)
-
 ## 🎯 Career Interests
 
 I am interested in opportunities involving:
