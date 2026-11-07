@@ -54,6 +54,15 @@ A PHP and MySQL-based finance application designed for small businesses.
 
 [GitHub repository](https://github.com/piduih/yinglume)
 
+### 4. QRGen – Free QR Code Generator
+A browser-based tool for creating static QR codes for business and personal use, with no registration or subscription required.
+
+**Highlights:** Generate QR codes, download in PNG and SVG formats, and process user data locally in the browser.
+
+**Tech:** React 19, TypeScript, Vite, qrcode.
+
+**Project:** [QRGen on Google AI Studio](https://ai.studio/apps/drive/11iVawrxHvZm1gZJFSkwTGUxH6i9NSQKf) · [GitHub repository](https://github.com/piduih/QRGen)
+
 ## 🎯 Career Interests
 
 I am interested in opportunities involving:
