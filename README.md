@@ -3,12 +3,12 @@
 
 Information Technology graduate from Universiti Teknologi Malaysia (UTM), with a background in IT support, manufacturing systems, ERP implementation, application support, and web development.
 
-I combine hands-on technical troubleshooting with experience supporting business and production systems. I also build practical web applications to solve operational and business problems.
+I combine hands-on technical troubleshooting with experience supporting business and production systems. I also build practical web applications and interactive learning resources.
 
 ## 👨‍💻 Professional Background
 
 - **Manufacturing IT – Celestica Kulim:** IT support experience in a manufacturing environment, including support for Manufacturing Execution Systems (MES) and production operations.
-- **ERP Implementation – iFast / SADA:** Participated in an ERP implementation project for Syarikat Air Darul Aman (SADA), covering business functions including Finance, HR, Procurement, and Asset Management. Worked with Oracle Forms-based systems.
+- **ERP Implementation – iFast / SADA:** Participated in an ERP implementation project for Syarikat Air Darul Aman (SADA), covering Finance, HR, Procurement, and Asset Management. Worked with Oracle Forms-based systems.
 - **Digital Signature Integration – DigiCert / UMPSA:** Freelance consulting involvement in digital-signature projects in 2024, including integration work involving Oracle Forms and DigiCert.
 
 ## 🧰 Technical Skills
@@ -27,27 +27,48 @@ I combine hands-on technical troubleshooting with experience supporting business
 
 ## 🚀 Selected Projects
 
-### 1. [Ala Carte Dashboard](https://github.com/piduih/dashboard)
+### 1. [YingLume Finance](https://github.com/piduih/yinglume)
+A PHP and MySQL-based finance application designed for small businesses.
+
+**Highlights:** Double-entry accounting, sales invoices, accounts receivable, supplier bills, accounts payable, banking, inventory, financial reports, multi-tenant architecture, and role-based access control.
+
+**Tech:** PHP 8.1+, MySQL 8.0+, Bootstrap 5.3.
+
+### 2. [PHP Santai](https://github.com/piduih/php-santai)
+An interactive PHP learning ebook in Bahasa Melayu, designed to make programming concepts easier to understand through simple explanations, everyday analogies, code examples, and practical exercises.
+
+**Highlights:** 25 learning chapters, from PHP fundamentals to a Task Manager project, with chapter search, learning progress, dark mode, and responsive design.
+
+**Tech:** PHP learning content, HTML, CSS, JavaScript. No build step or npm required.
+
+### 3. [MySQL Santai](https://github.com/piduih/mysql-santai)
+An interactive MySQL tutorial in Bahasa Melayu for learning SQL step by step.
+
+**Highlights:** 25 chapters, SQL examples, practical exercises, chapter navigation, browser-based learning progress, dark mode, and responsive design.
+
+**Tech:** MySQL, SQL, HTML, CSS, JavaScript.
+
+### 4. [Ala Carte Dashboard](https://github.com/piduih/dashboard)
 A PHP-based dashboard project.
 
 **Focus:** Web application development and dashboard interfaces.
 
-### 2. [Ala Carte Login](https://github.com/piduih/login)
+### 5. [Ala Carte Login](https://github.com/piduih/login)
 A PHP-based login module.
 
 **Focus:** Application structure and user login functionality.
 
-### 3. [Piduih Cognito](https://github.com/piduih/piduih-cognito)
+### 6. [Piduih Cognito](https://github.com/piduih/piduih-cognito)
 A TypeScript project exploring AI-oriented application concepts.
 
 **Focus:** Application development and AI integration exploration.
 
-### 4. [GameMath](https://github.com/piduih/gamemath)
+### 7. [GameMath](https://github.com/piduih/gamemath)
 A JavaScript project focused on mathematics for primary school students.
 
 **Focus:** Educational applications and interactive learning.
 
-### 5. [Personal Website](https://github.com/piduih/piduih.github.io)
+### 8. [Personal Website](https://github.com/piduih/piduih.github.io)
 A personal web project.
 
 **Focus:** Website structure and frontend development.
